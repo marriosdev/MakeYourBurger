@@ -1,4 +1,6 @@
-# vue_projeto
+Link do curso: https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
+
+# Make You Burger
 
 ## Project setup
 ```
