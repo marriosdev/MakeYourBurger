@@ -77,44 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "nome": null,
-      "carne": null,
-      "pao": null,
-      "opcionais": [
-        "Cebola roxa",
-        "Tomate",
-        "Salame",
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "dsad",
-      "carne": null,
-      "pao": null,
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": null,
-      "carne": null,
-      "pao": "3 Queijos",
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 3
-    },
-    {
-      "nome": null,
-      "carne": "Veggie burger",
-      "pao": null,
-      "opcionais": [],
-      "status": "Solicitado",
-      "id": 4
-    }
-  ]
+  "burgers": []
 }
