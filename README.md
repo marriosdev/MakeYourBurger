@@ -1,6 +1,8 @@
+# Make You Burger
+## Projeto criado no curso de VueJs 3, no canal Hora de Codar
 Link do curso: https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL
 
-# Make You Burger
+
 
 ## Project setup
 ```
